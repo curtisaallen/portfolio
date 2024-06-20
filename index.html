@@ -283,7 +283,7 @@
             projects: [], 
         },
         created: function() {
-            fetch('../js/json-file.json')
+            fetch('js/json-file.json')
             .then(response => response.json())
             .then(data => {
                 this.projects = data; 
