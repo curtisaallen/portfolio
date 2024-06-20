@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Aaron's",
+        "image": "images/work05.png",
+        "link": "https://www.aarons.com/",
+        "description": "As a Senior Front-End Web Developer at Aarons, I supported the Ecommerce Team by working in the SalesForce Commerce Cloud system. My responsibilities included enhancing the rent-to-own SalesForce Commerce Cloud system through the development of new ISML templates, JavaScript, HTML, and SCSS. I collaborated on creating and implementing new interfaces and controllers for Aaron's ecommerce website, and worked with their API to develop new pages using compliant HTML5, ISML, JavaScript, Gulp, CSS, SCSS, and Responsive Web Design techniques.",
+        "skills": ["ASP.NET", "jQuery", "javascript", "SalesForce Commerce Cloud", "HTML5/CSS3", "Vue.js", "SASS", "ISML", "Gulp"]
+    },
+
+    {
+      "id": 2,
+      "name": "Airwatch",
+      "image": "images/work02.png",
+      "link": "http://www.air-watch.com/",
+      "description": "AirWatch is the leader in enterprise-grade mobile device management, mobile application management and mobile content management solutions. As a member of the VMware web team, I help maintain and develop AirWatch.com",
+      "skills": ["PHP", "jQuery", "javascript", "Expression Engine", "HTML5/CSS3", "Bootstrap", "React", "Angular", "SASS", "WordPress"]
+    },
+    {
+        "id": 3,
+        "name": "Northrop Grumman",
+        "image": "images/work04.png",
+        "link": "https://www.northropgrumman.com/",
+        "description": "As a member of Northrop Grumman, I worked as a contractor for the CDC. In my role as a Web Designer/Web Developer 3 at NGC/CDC, I managed the CDC TB internet and intranet websites.",
+        "skills": ["Flash", "XHTML", "C#", "CSS 2 & 3", "JSON", "XML", "ASP", "Photoshop", "jQuery", "JavaScript"]        
+      },
+    {
+        "id": 4,
+        "name": "VeriFone",
+        "image": "images/work01.png",
+        "link": "https://www.verifone.com/en/us/",
+        "description": "VeriFone is a global leader in secure electronic payment technologies. They provide solutions that enable electronic payments. As a member of VeriFone Online Team, I help build, design, code, maintain pages on VeriFone.com",
+        "skills": ["ASP.NET", "jQuery", "javascript", "HTML5/CSS3", "Responsive Layout", "Umbraco CMS"]
+      },
+      {
+        "id": 4,
+        "name": "Careerbuilder",
+        "image": "images/work03.png",
+        "link": "https://www.verifone.com/en/us/",
+        "description": "CareerBuilder is one of the largest online employment websites, they receive more than 23 million visitors each month. As a member of CareerBuilder Front-End Development team, I help build, design, and code pages on Careerbuilder.com.",
+        "skills": ["ASP.NET", "jQuery", "javascript", "HTML5/CSS3", "Responsive Layout"]
+      }
+  ]
+  
