@@ -2265,3 +2265,8 @@ button:focus {
     from, to { opacity: 0; }
     50% { opacity: 1; }
   }
+
+
+#page-contact .section-title a {
+   color: #fff;
+}
